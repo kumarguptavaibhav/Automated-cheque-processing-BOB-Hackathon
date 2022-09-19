@@ -1,4 +1,4 @@
 # Automated-cheque-processing-BOB-Hackathon
 BOB-Hackathon
 
-IT IS UNDER CONSTRUCTION PROJECT
+It is an under construction project
